@@ -1,0 +1,33 @@
+.jumbotron{
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    background: #000000;
+    color:#ff9500ed;
+}
+
+#brand{
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-size: 80px;
+    padding-right: 100px;
+    padding-left: 0px;
+    padding-top: 0px;
+}
+
+.row-header {
+    margin: 0px auto;
+}
+
+#log{
+    color: #000000;
+    background: #FF9300;
+    text-align: center;
+}
+
+.row-content{
+    margin: 0px auto;
+    align-content: center;
+    align-self: center;
+    border-bottom:0px;
+    fill: #FF9300; 
+}
